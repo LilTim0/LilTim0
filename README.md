@@ -19,8 +19,7 @@ Actually learning :
 ![Lil_Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liltim0&theme=onedark&show_icons=true) <br> 
 
 *** 
-### 
-Languages I use... 
+### Languages I use... 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liltim0&layout=compact&theme=onedark)](https://github.com/liltim0/github-readme-stats)
 
 
