@@ -16,11 +16,14 @@ Love coding 🔥
 - Machine learning
 - Discord JS
 - Python (especially in AI)
+- SQL
+- Sass
 
 *** 
 
 ### My Stats
-[![GitHub Streak Counter](http://github-readme-streak-stats.herokuapp.com?user=liltim0&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+[![GitHub Streak Counter](http://github-readme-streak-stats.herokuapp.com?user=liltim0&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br><br>
 ![Lil_Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liltim0&theme=onedark&show_icons=true) <br> 
 
 *** 
@@ -29,12 +32,12 @@ Love coding 🔥
 
 ***
 
-### All my projects 
+### [All my projects](https://github.com/LilTim0/LilTim0/blob/main/All%20my%20projects.md)
 [SOON]
 
 ***
 
-### Navigation
+### [Navigation](https://github.com/liltim0/liltim0/blob/main/Navigation.md)
 [SOON]
 
 # Software and technologies :
@@ -52,6 +55,7 @@ Love coding 🔥
 <img align="left" alt="C#"width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;">
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
+<img align="left" alt="CMD" width="26px" src="https://github.com/LilTim0/LilTim0/blob/main/cmd.png" style="max-width: 100%;">
 <br>
 
 ***
