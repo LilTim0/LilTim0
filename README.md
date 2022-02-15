@@ -37,7 +37,7 @@ Love coding 🔥<br><br>
 ***
 
 # Software and technologies :
-<br><br> 
+<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
 <img align="left" alt="Visual Studio 2022" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;">
@@ -50,7 +50,7 @@ Love coding 🔥<br><br>
 <br><br>
 
 # Programming languages and extras :
-<br><br>
+<br>
 
 <img align="left" alt="Assembler" width="26px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" style="max-width: 100%;">
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="max-width: 100%;">
