@@ -1,11 +1,11 @@
 ### Me :
-Hey, I'm Timeo.
-I studio computer science.
-Love coding 🔥
+Hey, I'm Timeo.<br>
+I studio computer science.<br>
+Love coding 🔥<br><br>
 
 ### Interested in :
 - AI
-- Machine/deep learning 
+- Machine learning and deep learning 
 - High and low-level programming languages
 - Having fun 😉
 
@@ -33,17 +33,20 @@ Love coding 🔥
 ***
 
 ### [All my projects](https://github.com/LilTim0/LilTim0/blob/main/All%20my%20projects.md)
-[SOON]
 
 ***
 
-### [Navigation](https://github.com/liltim0/liltim0/blob/main/Navigation.md)
-[SOON]
-
 # Software and technologies :
 <br><br> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
+<img align="left" alt="Visual Studio 2022" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;">
+<img align="left" alt="Adobe" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1789px-Adobe_Systems_logo_and_wordmark.svg.png" style="max-width: 100%;">
+<img align="left" alt="NASM" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" style="max-width: 100%;">
+<img align="left" alt="GCC" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" style="max-width: 100%;">
+<img align="left" alt="IDA Freeware" width="30px" src="https://github.com/LilTim0/LilTim0/blob/main/ida.png" style="max-width: 100%;">
+<img align="left" alt="Stackoverflow" width="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" style="max-width: 100%;">
+
 <br><br>
 
 # Programming languages and extras :
