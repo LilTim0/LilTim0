@@ -32,7 +32,7 @@ Love coding 🔥<br><br>
 
 ***
 
-### [All my projects](https://github.com/LilTim0/LilTim0/blob/main/All%20my%20projects.md)
+### [Projects](https://github.com/LilTim0/LilTim0/blob/main/Projects.md)
 
 ***
 
