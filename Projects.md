@@ -7,8 +7,8 @@
 | Name                      | Description                                 | Link                                                          | State |
 |---------------------------|---------------------------------------------|---------------------------------------------------------------|-------|
 | XtraUtilities             | Additionnal usefull features for C#         | [Repo](https://github.com/LilTim0/XtraUtilities)              | ⭕    |
-| EezAI                     | SOON                                        | SOON                                                          | ⭕    |
-| EezOS                     | SOON                                        | SOON                                                          | ⭕    |
+| EezAI                     | SOON                                        | [Repo](https://github.com/LilTim0/EezAI)              | ⭕    |
+| EezOS                     | SOON                                        | [Repo](https://github.com/LilTim0/EezOS)              | ⭕    |
 | ...                       |                                             |                                                               |       |       
 
 | [Go home](https://github.com/LilTim0/LilTim0/blob/main/README.md) |
