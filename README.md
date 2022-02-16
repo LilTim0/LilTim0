@@ -12,14 +12,16 @@ Love coding 🔥<br><br>
 ***
 
 ### Actually learning :
-- C++
 - Machine learning
-- Discord JS
 - Python (especially in AI)
-- SQL
-- Sass
 
 *** 
+
+### Soon learning :
+- C++
+- Discord JS
+- SQL
+- Sass
 
 ### My Stats
 [![GitHub Streak Counter](http://github-readme-streak-stats.herokuapp.com?user=liltim0&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
