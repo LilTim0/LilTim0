@@ -45,6 +45,7 @@ Love coding 🔥<br><br>
 <img align="left" alt="Visual Studio 2022" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;">
 <img align="left" alt="Adobe" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1789px-Adobe_Systems_logo_and_wordmark.svg.png" style="max-width: 100%;">
 <img align="left" alt="NASM" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" style="max-width: 100%;">
+<br><br>
 <img align="left" alt="GCC" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="IDA Freeware" width="30px" src="https://github.com/LilTim0/LilTim0/blob/main/ida.png" style="max-width: 100%;">
 <img align="left" alt="Stackoverflow" width="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" style="max-width: 100%;">
@@ -59,6 +60,7 @@ Love coding 🔥<br><br>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="C#"width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;">
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
+<br><br>
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
 <img align="left" alt="CMD" width="26px" src="https://github.com/LilTim0/LilTim0/blob/main/cmd.png" style="max-width: 100%;">
 <br>
