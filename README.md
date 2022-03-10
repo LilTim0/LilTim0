@@ -14,6 +14,7 @@ Love coding 🔥<br><br>
 ### Actually learning :
 - Machine learning
 - Python (especially in AI)
+- Java (Minecraft Modding)
 
 *** 
 
@@ -22,6 +23,12 @@ Love coding 🔥<br><br>
 - Discord JS
 - SQL
 - Sass
+
+***
+
+### [My Skills](https://github.com/LilTim0/LilTim0/blob/main/Skills.md)
+
+***
 
 ### My Stats
 ![Lil_Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liltim0&theme=onedark&show_icons=true)
