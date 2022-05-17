@@ -48,15 +48,23 @@ I love coding, learning new things and solve problems 🔥<br><br>
 
 # Software and technologies :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;">
-<img align="left" alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
-<img align="left" alt="Visual Studio 2022" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;">
-<img align="left" alt="Adobe" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1789px-Adobe_Systems_logo_and_wordmark.svg.png" style="max-width: 100%;">
-<img align="left" alt="NASM" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" style="max-width: 100%;">
-<img align="left" alt="GCC" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" style="max-width: 100%;">
-<img align="left" alt="IDA Freeware" height="30px" src="https://github.com/LilTim0/LilTim0/blob/main/ida.png" style="max-width: 100%;">
-<img align="left" alt="Stackoverflow" height="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" style="max-width: 100%;">
-<img align="left" alt="CodePen" height="30px" src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193,c_scale/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x-1024x193.png?_i=AA" style="max-width: 100%;">
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;"></a>
+
+<a href="https://github.com/LilTim0"><img align="left" alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;"></a>
+
+<a href="https://visualstudio.microsoft.com/fr/"><img align="left" alt="Visual Studio 2022" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;"></a>
+
+<a href="https://www.adobe.com/ch_fr/"><img align="left" alt="Adobe" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1789px-Adobe_Systems_logo_and_wordmark.svg.png" style="max-width: 100%;"></a>
+
+<a href="https://www.nasm.us/"><img align="left" alt="NASM" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" style="max-width: 100%;"></a>
+
+<a href="https://gcc.gnu.org/"><img align="left" alt="GCC" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" style="max-width: 100%;"></a>
+
+<a href="https://hex-rays.com/ida-free/"><img align="left" alt="IDA Freeware" height="30px" src="https://github.com/LilTim0/LilTim0/blob/main/ida.png" style="max-width: 100%;"></a>
+
+<a href="https://stackoverflow.com/"><img align="left" alt="Stackoverflow" height="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" style="max-width: 100%;"></a>
+
+<a href="https://codepen.io/liltim0"><img align="left" alt="CodePen" height="30px" src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193,c_scale/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x-1024x193.png?_i=AA" style="max-width: 100%;"></a>
 
 <br><br>
 
