@@ -48,38 +48,28 @@ I love coding, learning new things and solve problems 🔥<br><br>
 
 # Software and technologies :
 
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;"></a>
-
-<a href="https://github.com/LilTim0"><img align="left" alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;"></a>
-
-<a href="https://visualstudio.microsoft.com/fr/"><img align="left" alt="Visual Studio 2022" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="max-width: 100%;"></a>
-
-<a href="https://www.adobe.com/ch_fr/"><img align="left" alt="Adobe" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1789px-Adobe_Systems_logo_and_wordmark.svg.png" style="max-width: 100%;"></a>
-
-<a href="https://www.nasm.us/"><img align="left" alt="NASM" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" style="max-width: 100%;"></a>
-
-<a href="https://gcc.gnu.org/"><img align="left" alt="GCC" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" style="max-width: 100%;"></a>
-
-<a href="https://hex-rays.com/ida-free/"><img align="left" alt="IDA Freeware" height="30px" src="https://github.com/LilTim0/LilTim0/blob/main/ida.png" style="max-width: 100%;"></a>
-
-<a href="https://stackoverflow.com/"><img align="left" alt="Stackoverflow" height="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" style="max-width: 100%;"></a>
-
-<a href="https://codepen.io/liltim0"><img align="left" alt="CodePen" height="30px" src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193,c_scale/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x-1024x193.png?_i=AA" style="max-width: 100%;"></a>
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br><br>
 
 # Programming languages and extras :
 
-<img align="left" alt="Assembler" height="30px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" style="max-width: 100%;">
-<img align="left" alt="C" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="max-width: 100%;">
-<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;">
-<img align="left" alt="C#"height="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;">
-<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
-<img align="left" alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
-<img align="left" alt="CMD" height="30px" src="https://github.com/LilTim0/LilTim0/blob/main/cmd.png" style="max-width: 100%;">
-<img align="left" alt="HTML" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="max-width: 100%;">
-<img align="left" alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" style="max-width: 100%;">
-<img align="left" alt="Sass" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="max-width: 100%;">
-<img align="left" alt="SQL" height="30px" src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" style="max-width: 100%;">
-<img align="left" alt="Java" height="30px" src="
-https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" style="max-width: 100%;">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
